@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ]
+  ],
+  "legacy_uid": "bef24071-0005-afe7-ba69-0bfc5be6e865",
+  "instructors": {
+    "content": [
+      "f886788c-41aa-8c0d-f4f7-3e5ba570852b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0e618232-8b6e-256d-8e4a-a86e6dcd2355",
+    "website": "6-801-machine-vision-fall-2004"
+  },
+  "course_title": "Machine Vision",
+  "course_description": "Machine Vision provides an intensive introduction to the process of generating a symbolic description of an environment from an image. Lectures describe the physics of image formation, motion vision, and recovering shapes from shading. Binary image processing and filtering are presented as preprocessing steps. Further topics include photogrammetry, object representation alignment, analog VLSI and computational vision. Applications to robotics and intelligent machine interaction are discussed.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.866",
+  "primary_course_number": "6.801",
+  "course_image_thumbnail": {
+    "content": "4b83b1a8-b9ac-4b00-48cb-2c5d6b2c97ed",
+    "website": "6-801-machine-vision-fall-2004"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "888b227a-fe7e-4909-9bab-902c33cb9f78",
+  "site_short_id": "6.801-fall-2004",
+  "title": "Course Metadata"
+}
